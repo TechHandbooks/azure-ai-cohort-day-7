@@ -6,9 +6,7 @@ Resources for Day 7 of Azure AI Cohort
 - [Handson: Hyperparameter Tuning using Grid Search](./hyperparametertuning.py)
 - [Handson: Comparing Models](./comparingmodels.py)
 - [Assignment Submission](https://forms.office.com/r/MwtiC6U7Ju?origin=lprLink)
-- [Winners](#winners)
+- [Winners](https://github.com/Techhandbooks/azure-ai-cohort/blob/main/Winners.md)
 - [Recording](https://www.youtube.com/watch?v=Fg5QvYLjR0s)
-
-## Winners
 
 [Back to Main Repo](https://github.com/TechHandbooks/azure-ai-cohort)
